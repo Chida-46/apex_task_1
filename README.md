@@ -44,9 +44,9 @@ Repeated order IDs were disambiguated under the assumption that each row require
 ## Project Files
 
 - `ApexPlanet_Data_Cleaning.ipynb` — notebook containing exploration, cleaning, and validation steps
-- `output/cleaned_sales_dataset.csv` — cleaned dataset in CSV format
-- `output/cleaned_sales_dataset.xlsx` — cleaned dataset in Excel format
-- `output/data_quality_report.csv` — summary of data quality findings and actions
+- `cleaned_sales_dataset.csv` — cleaned dataset in CSV format
+- `cleaned_sales_dataset.xlsx` — cleaned dataset in Excel format
+- `data_quality_report.csv` — summary of data quality findings and actions
 
 ## How to Run
 
