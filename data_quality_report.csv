@@ -1,0 +1,7 @@
+Issue,Initial_Finding,Action_Taken,Status
+Missing Age values,20 missing values,Filled with median age,Handled
+Missing City values,13 missing values,Replaced with Unknown,Handled
+Repeated Order_ID values,8 extra occurrences,Assigned unique IDs and preserved Original_Order_ID,Handled with documented assumption
+Exact duplicate rows,0,No action required,Passed
+Sales calculation mismatches,0,Validated Total_Sales = Quantity * Unit_Price,Passed
+Order_Date format,Stored as object/text,Converted to datetime,Handled
